@@ -1,0 +1,12 @@
+[submodule "aethermind-input"]
+	path = aethermind-input
+	url = git@github.com:TinkerForge-AI/aethermind-input.git
+[submodule "aethermind-perception"]
+	path = aethermind-perception
+	url = git@github.com:TinkerForge-AI/aethermind-perception.git
+[submodule "aethermind-interpretation"]
+	path = aethermind-interpretation
+	url = git@github.com:TinkerForge-AI/aethermind-interpretation.git
+[submodule "aethermind-memory"]
+	path = aethermind-memory
+	url = git@github.com:TinkerForge-AI/aethermind-memory.git
